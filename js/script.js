@@ -32,11 +32,11 @@ if (0 <= ball && ball < 80) {
     `Tabriklaymiz  ${name} siz grand asosida talabalikka qabul qilindingiz `
   );
 }
-//  else if (ball >= 180 && ball< 0) {
-//   console.log(
-//     `Noto'g'ri raqam! iltimos  ballingizni tekshirib qaytadan kiriting `
-//   );
-// }
+ else if (ball >= 180 && ball< 0) {
+  console.log(
+    `Noto'g'ri raqam! iltimos  ballingizni tekshirib qaytadan kiriting `
+  );
+}
 
 // Homework2
 
